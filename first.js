@@ -1,2 +1,2 @@
-fullName="sadia khan";
+fullName="sadia khan baloch";
 console.log(fullName);
