@@ -58,3 +58,6 @@ console.log(message);
  let fullName=prompt("Enter your fullName without spaces ");
  let userName="@"+fullName+fullName.length;
  console.log(userName);
+
+  
+ 
