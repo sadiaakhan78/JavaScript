@@ -102,7 +102,7 @@ else{
     console.log("Not multiple of 3 and 7");
 }*/
 
-let age=prompt("Enter an age");
+/*let age=prompt("Enter an age");
 
 if(age<12  ){
     console.log("child")
@@ -111,7 +111,7 @@ if(age<12  ){
 }else if(age<40){
     console.log("adult");
 }else{
-    console.log("senior");
-}
+    console.log("senior"); 
+}*/
 
 
