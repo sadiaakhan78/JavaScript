@@ -55,9 +55,8 @@ console.log(message);
  let res=str2.concat(str1);
  console.log(res);*/
 
- let fullName=prompt("Enter your fullName without spaces ");
+ /*let fullName=prompt("Enter your fullName without spaces ");
  let userName="@"+fullName+fullName.length;
- console.log(userName);
+ console.log(userName);*/
 
   
- 
