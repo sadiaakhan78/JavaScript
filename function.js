@@ -93,7 +93,7 @@ let sum=arr.reduce((pre ,curr)=>{
 });
 
 console.log("sum=",sum);
-//console.log(arr);
+
 let factorial=arr.reduce((pre ,curr)=>{
     return pre*curr;
 
